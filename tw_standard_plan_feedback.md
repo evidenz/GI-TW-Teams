@@ -175,6 +175,8 @@ Mit Grand Inquisitor - das haben wir momentan gar nicht vertreten in der Gilde.
 | Second Sister            |
 | Eighth Brother           |
 
-**Variante 2**
+### Variante 2
+
+![Inq not so grand](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/inquisition_not_so_grand.png?raw=true)
 
 Ohne Grand Inquisitor.
