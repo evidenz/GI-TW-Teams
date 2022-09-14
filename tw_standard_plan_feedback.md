@@ -6,18 +6,23 @@
 
 # Bad Batch
 
-**Variante 1**
+- Eher ein GG Counter den wir uns für die Off aufheben sollten
+
+## Varianten 
+
+### Variante 1
 
 Komplett mit Omega
 
 ![Full BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_omega.png?raw=true)
 
-**Variante 2**
+### Variante 2
 
 Mit Shaak im Lead
-!
 
-- Eher ein GG Counter den wir uns für die Off aufheben sollten
+![Shaak BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_shaak.png?raw=true)
+
+
 
 
 # Bounty Hunter
@@ -28,8 +33,7 @@ Mit Shaak im Lead
 
 # Maul Mandalorian
 
-## Flex Units
-
+![Maul Mandos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/maul_mandos.png?raw=true)
 
 | Flex Slot 1 - beste Gear |
 | ------------------------ |
@@ -45,15 +49,20 @@ Mit Shaak im Lead
 
 # JTR
 
+## Varianten
 
-
-**Variante 1**
+### Variante 1
 
 Diese sollte nur von Leuten gesetzt werden, die keine Rey haben (und dadurch nicht auf die Heroes Poe & Finn angewiesen sind).
 
-**Variante 2**
+![JTR with Heroes](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_heroes.png?raw=true)
+
+### Variante 2
 
 Die kann von jedem gestellt werden.
+
+![JTR Remains](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_remains.png?raw=true)
+
 
 | Flex Slot 1 - beste Gear   | Flex Slot 2 - beste Gear | Flex Slot 3 - beste Gear  |
 | -------------------------- | ------------------------ | ------------------------- |
@@ -70,6 +79,7 @@ Die kann von jedem gestellt werden.
 
 # Geos
 
+![Geos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/geos.png?raw=true)
 
 ## Feedback
 
@@ -93,7 +103,11 @@ Die kann von jedem gestellt werden.
 
 # Dash
 
-**Variante 1 - mit BAM**
+## Varianten
+
+### Variante 1 - mit BAM
+
+![Dash mit BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/dash_mit_bam.png?raw=true)
 
 Wenn wir eher Dash anstelle von BAM stellen wollen, dann können wir diese Variante nutzen.
 
@@ -103,7 +117,9 @@ Wenn wir eher Dash anstelle von BAM stellen wollen, dann können wir diese Varia
 | Vandor Chewbacca             |
 | Bo-Katan Kryze               |
 
-**Variante 2 - ohne BAM**
+### Variante 2 - ohne BAM
+
+![Dash ohne BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/dash_ohne_bam.png?raw=true)
 
 Wenn wir eher BAM noch zusätzlich stellen wollen, dann sollten wir zu dieser Variante greifen.
 
@@ -117,11 +133,17 @@ Wenn wir eher BAM noch zusätzlich stellen wollen, dann sollten wir zu dieser Va
 
 # MM
 
-**Variante 1**
+## Varianten
+
+### Variante 1
+
+![MM Prime](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/mm_prime.png?raw=true)
 
 Das ist die "potente" Version von dem Team und sollten wir immer mit Prio vor der anderen Variante stellen.
 
-**Variante 2**
+### Variante 2
+
+![MM on a budget](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/mm_budget.png?raw=true)
 
 Die "budget" Variante. Für alle die, die zwar MM haben, aber nicht die guten Rebel Fighter.
 
@@ -140,7 +162,11 @@ Die "budget" Variante. Für alle die, die zwar MM haben, aber nicht die guten Re
 
 # Inquisition
 
-**Variante 1**
+## Varianten
+
+### Variante 1
+
+![Inq mit GI](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/inquisition_grand_inquisitor.png?raw=true)
 
 Mit Grand Inquisitor - das haben wir momentan gar nicht vertreten in der Gilde.
 
