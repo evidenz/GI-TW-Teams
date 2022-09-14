@@ -4,7 +4,18 @@
 - Für alle Zetas die in diesem [Ranking](https://docs.google.com/spreadsheets/d/1L8x6ASnRoj-74L_Cdxv7s-ifFfm4yyQGq7ESFKUBdLo/edit#gid=0) *Aurodium oder höher sind*, habe ich sie für die Templates als *Required* gesetzt.
   - Ausnahme ist hier, wenn ein Zeta kein gutes Ranking hat, aber wichtig für ein  spezielles Team ist (z.B. Pao Zeta in einem MM Team).
 
-# Shaak + BB / Full BB
+# Bad Batch
+
+**Variante 1**
+
+Komplett mit Omega
+
+![Full BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_omega.png?raw=true)
+
+**Variante 2**
+
+Mit Shaak im Lead
+!
 
 - Eher ein GG Counter den wir uns für die Off aufheben sollten
 
@@ -65,6 +76,8 @@ Die kann von jedem gestellt werden.
 - Geht in die C-Felder
 
 # BAM
+
+![BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/BAM.png?raw=true)
 
 | Flex Slot 1 - In Reihenfolge |
 | ---------------------------- |
