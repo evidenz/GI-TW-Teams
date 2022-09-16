@@ -8,6 +8,8 @@
 
 ## Darth Malgus
 
+![Darth Malgus](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/darth_malgus.png?raw=true)
+
 Die präferierte Variante - vor Darth Revan.
 
 ## Darth Revan
@@ -15,6 +17,8 @@ Die präferierte Variante - vor Darth Revan.
 ### Varianten
 
 #### Variante 1 - mit Talon
+
+![DR mit Talon](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/darth_revan_talon.png?raw=true)
 
 Dieses Setup ist mit Talon (solange diese wenigstens auf Relic Level ist). Hier ist darauf zu achten, dass wir sie nur mit Sith Charakteren aufstellen.
 
@@ -25,9 +29,13 @@ Dieses Setup ist mit Talon (solange diese wenigstens auf Relic Level ist). Hier 
 
 #### Variante 2 - ohne Talon 1/2
 
+![DR ohne Talon 1](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/darth_revan_ohne_talon_1.png?raw=true)
+
 Das ist die bevorzugte Variante ohne Talon. Diese wählen wir zuerst aus und schauen dann erst in der zweiten Variante noch was übrig bleibt.
 
 #### Variante 3 - ohne Talon 2/2
+
+![DR ohne Talon 2](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/darth_revan_ohne_talon_2.png?raw=true)
 
 Falls jemand einen der beiden (Sith Marauder oder Sith Empitre Trooper) nicht auf einem benötigten Gear Level hat, dann können wir noch HK-47 hinzunehmen.
 
@@ -37,6 +45,8 @@ Falls jemand einen der beiden (Sith Marauder oder Sith Empitre Trooper) nicht au
 | Sith Empire Trooper      |
 
 ## Starkiller
+
+![Starkiller](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/starkiller.png?raw=true)
 
 | Flex Slot 1 - In Reihenfolge |
 | ---------------------------- |
@@ -59,9 +69,13 @@ Präferenz für den TW ist definitiv *Juhani* (solange das Omicron aktiviert ist
 
 ## Emperor Palpatine mit oMara
 
+![Emporer oMara](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/emperor_palpatine_omara.png?raw=true)
+
 Dieses Team können wir nutzen, wenn bei einem Member Starkiller noch nicht einsatzbereit ist, der Member aber schon Mara freigeschaltet hat und das Omicron aktiviert hat.
 
 ## JML mit Mace Windu und Jedireste
+
+![JML Mace Windu Jedireste](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jml_mit_mace_windu_und_jedireste.png?raw=true)
 
 
 ## Maul Mandalorian
@@ -165,10 +179,14 @@ Die "budget" Variante. Für alle die, die zwar MM haben, aber nicht die guten Re
 
 #### Variante 1 
 
+![Bounty Hunters Pref Lineup](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bounty_hunter_1_von_2.png?raw=true)
+
 Diese Lineup wollen wir primär setzen.
 
 
 #### Variante 2
+
+![Bounty Hunters second Lineup](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bounty_hunter_2_von_2.png?raw=true)
 
 Dieses Lineup ist zu setzen, wenn wir Lineup 2 nicht setzen können.
 
