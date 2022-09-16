@@ -6,6 +6,64 @@
 
 # B-Defense
 
+## Darth Malgus
+
+Die präferierte Variante - vor Darth Revan.
+
+## Darth Revan
+
+### Varianten
+
+#### Variante 1 - mit Talon
+
+Dieses Setup ist mit Talon (solange diese wenigstens auf Relic Level ist). Hier ist darauf zu achten, dass wir sie nur mit Sith Charakteren aufstellen.
+
+| Flex Slot 1 - beste Gear |
+| ------------------------ |
+| Sith Marauder            |
+| Sith Empire Trooper      |
+
+#### Variante 2 - ohne Talon 1/2
+
+Das ist die bevorzugte Variante ohne Talon. Diese wählen wir zuerst aus und schauen dann erst in der zweiten Variante noch was übrig bleibt.
+
+#### Variante 3 - ohne Talon 2/2
+
+Falls jemand einen der beiden (Sith Marauder oder Sith Empitre Trooper) nicht auf einem benötigten Gear Level hat, dann können wir noch HK-47 hinzunehmen.
+
+| Flex Slot 1 - beste Gear |
+| ------------------------ |
+| Sith Marauder            |
+| Sith Empire Trooper      |
+
+## Starkiller
+
+| Flex Slot 1 - In Reihenfolge |
+| ---------------------------- |
+| Visas Marr                   |
+| Rey (Scavenger)              |
+
+Natürlich ist das Standard Lineup mit *Visas Marr*. Wenn jemand in der Gilde sie noch nicht hochgenug gezogen hat, können wir hier auch auf *Rey (Scavenger)* ausweichen.
+
+
+| Flex Slot 2 - In Reihenfolge |
+| ---------------------------- |
+| Juhani                       |
+| Barris Offee                 |
+| Obi-Wan Kenobi (Old Ben)     |
+| Mace Windu                   |
+| General Kenobi               |
+
+Präferenz für den TW ist definitiv *Juhani* (solange das Omicron aktiviert ist). Ansonsten weichen wir im nächsten Schritt auf *Barris Offee* oder *Old Ben* aus. Wenn es nicht anders geht, dann können wir dieses Team auch noch mit *Mace Windu* oder *General Kenobi* stellen.
+
+
+## Emperor Palpatine mit oMara
+
+Dieses Team können wir nutzen, wenn bei einem Member Starkiller noch nicht einsatzbereit ist, der Member aber schon Mara freigeschaltet hat und das Omicron aktiviert hat.
+
+## JML mit Mace Windu und Jedireste
+
+
 ## Maul Mandalorian
 
 ![Maul Mandos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/maul_mandos.png?raw=true)
@@ -102,6 +160,17 @@ Die "budget" Variante. Für alle die, die zwar MM haben, aber nicht die guten Re
 
 - Geht in die C-Felder
 - oBoba sollten wir uns eher für die Off aufheben (sollten wir so auch an die Member weitergeben, dass wir den für die Off aufheben wollen)
+
+### Varianten
+
+#### Variante 1 
+
+Diese Lineup wollen wir primär setzen.
+
+
+#### Variante 2
+
+Dieses Lineup ist zu setzen, wenn wir Lineup 2 nicht setzen können.
 
 
 ## JTR
