@@ -4,34 +4,9 @@
 - Für alle Zetas die in diesem [Ranking](https://docs.google.com/spreadsheets/d/1L8x6ASnRoj-74L_Cdxv7s-ifFfm4yyQGq7ESFKUBdLo/edit#gid=0) *Aurodium oder höher sind*, habe ich sie für die Templates als *Required* gesetzt.
   - Ausnahme ist hier, wenn ein Zeta kein gutes Ranking hat, aber wichtig für ein  spezielles Team ist (z.B. Pao Zeta in einem MM Team).
 
-# Bad Batch
+# B-Defense
 
-- Eher ein GG Counter den wir uns für die Off aufheben sollten
-
-## Varianten 
-
-### Variante 1
-
-Komplett mit Omega
-
-![Full BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_omega.png?raw=true)
-
-### Variante 2
-
-Mit Shaak im Lead
-
-![Shaak BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_shaak.png?raw=true)
-
-
-
-
-# Bounty Hunter
-
-- Geht in die C-Felder
-- oBoba sollten wir uns eher für die Off aufheben (sollten wir so auch an die Member weitergeben, dass wir den für die Off aufheben wollen)
-
-
-# Maul Mandalorian
+## Maul Mandalorian
 
 ![Maul Mandos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/maul_mandos.png?raw=true)
 
@@ -42,50 +17,11 @@ Mit Shaak im Lead
 | Droideka                 |
 | Sabine Wren              |
 
-## Feedback
+### Feedback
 
 - Wat & Armorer werden bei SEE und/oder LV gebraucht - hier die Leute nicht dieses Team stellen lassen
 
-
-# JTR
-
-## Varianten
-
-### Variante 1
-
-Diese sollte nur von Leuten gesetzt werden, die keine Rey haben (und dadurch nicht auf die Heroes Poe & Finn angewiesen sind).
-
-![JTR with Heroes](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_heroes.png?raw=true)
-
-### Variante 2
-
-Die kann von jedem gestellt werden.
-
-![JTR Remains](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_remains.png?raw=true)
-
-
-| Flex Slot 1 - beste Gear   | Flex Slot 2 - beste Gear | Flex Slot 3 - beste Gear  |
-| -------------------------- | ------------------------ | ------------------------- |
-| Poe Dameron                | R2-D2                    | Finn                      |
-| Veteran Smuggler Chewbacca | Resistance Trooper       | Veteran Smuggler Han Solo |
-|                            | Rey (Scavenger)          |                           |
-
-- Rey (Scavenger) sollte hier auch nur gestellt werden, wenn das Starkillter Team mit einem anderen UAFU gestellt werden kann
-
-
-## Feedback 
-
-- Geht in die C-Felder
-
-# Geos
-
-![Geos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/geos.png?raw=true)
-
-## Feedback
-
-- Geht in die C-Felder
-
-# BAM
+## BAM
 
 ![BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/BAM.png?raw=true)
 
@@ -101,11 +37,11 @@ Die kann von jedem gestellt werden.
 - Kann gestellt werden, wenn Dash nicht in der Variante mit BAM gestellt werden soll.
 - Die Varianten wo der Flex Spot mit einem der BH gefüllt wird kann nur gestellt werden, wenn diese nicht für das BH Team von dem Member benötigt wird.
 
-# Dash
+## Dash
 
-## Varianten
+### Varianten
 
-### Variante 1 - mit BAM
+#### Variante 1 - mit BAM
 
 ![Dash mit BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/dash_mit_bam.png?raw=true)
 
@@ -117,7 +53,7 @@ Wenn wir eher Dash anstelle von BAM stellen wollen, dann können wir diese Varia
 | Vandor Chewbacca             |
 | Bo-Katan Kryze               |
 
-### Variante 2 - ohne BAM
+#### Variante 2 - ohne BAM
 
 ![Dash ohne BAM](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/dash_ohne_bam.png?raw=true)
 
@@ -131,17 +67,17 @@ Wenn wir eher BAM noch zusätzlich stellen wollen, dann sollten wir zu dieser Va
 | Young Lando Calrissian     |
 | Qi'ra                      |
 
-# MM
+## MM
 
-## Varianten
+### Varianten
 
-### Variante 1
+#### Variante 1
 
 ![MM Prime](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/mm_prime.png?raw=true)
 
 Das ist die "potente" Version von dem Team und sollten wir immer mit Prio vor der anderen Variante stellen.
 
-### Variante 2
+#### Variante 2
 
 ![MM on a budget](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/mm_budget.png?raw=true)
 
@@ -160,11 +96,58 @@ Die "budget" Variante. Für alle die, die zwar MM haben, aber nicht die guten Re
 | Lando Calrissian  |
 | Pao               |
 
-# Inquisition
+# C-Defense
 
-## Varianten
+## Bounty Hunter
 
-### Variante 1
+- Geht in die C-Felder
+- oBoba sollten wir uns eher für die Off aufheben (sollten wir so auch an die Member weitergeben, dass wir den für die Off aufheben wollen)
+
+
+## JTR
+
+### Varianten
+
+#### Variante 1
+
+Diese sollte nur von Leuten gesetzt werden, die keine Rey haben (und dadurch nicht auf die Heroes Poe & Finn angewiesen sind).
+
+![JTR with Heroes](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_heroes.png?raw=true)
+
+#### Variante 2
+
+Die kann von jedem gestellt werden.
+
+![JTR Remains](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/jtr_with_remains.png?raw=true)
+
+
+| Flex Slot 1 - beste Gear   | Flex Slot 2 - beste Gear | Flex Slot 3 - beste Gear  |
+| -------------------------- | ------------------------ | ------------------------- |
+| Poe Dameron                | R2-D2                    | Finn                      |
+| Veteran Smuggler Chewbacca | Resistance Trooper       | Veteran Smuggler Han Solo |
+|                            | Rey (Scavenger)          |                           |
+
+- Rey (Scavenger) sollte hier auch nur gestellt werden, wenn das Starkillter Team mit einem anderen UAFU gestellt werden kann
+
+
+### Feedback 
+
+- Geht in die C-Felder
+
+## Geos
+
+![Geos](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/geos.png?raw=true)
+
+### Feedback
+
+- Geht in die C-Felder
+
+
+## Inquisition
+
+### Varianten
+
+#### Variante 1
 
 ![Inq mit GI](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/inquisition_grand_inquisitor.png?raw=true)
 
@@ -175,8 +158,29 @@ Mit Grand Inquisitor - das haben wir momentan gar nicht vertreten in der Gilde.
 | Second Sister            |
 | Eighth Brother           |
 
-### Variante 2
+#### Variante 2
 
 ![Inq not so grand](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/inquisition_not_so_grand.png?raw=true)
 
 Ohne Grand Inquisitor.
+
+
+# Aussortierte Teams
+
+## Bad Batch
+
+- Eher ein GG Counter den wir uns für die Off aufheben sollten
+
+### Varianten 
+
+#### Variante 1
+
+Komplett mit Omega
+
+![Full BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_omega.png?raw=true)
+
+#### Variante 2
+
+Mit Shaak im Lead
+
+![Shaak BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_shaak.png?raw=true)
