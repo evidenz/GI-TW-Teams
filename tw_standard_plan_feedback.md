@@ -271,3 +271,9 @@ Komplett mit Omega
 Mit Shaak im Lead
 
 ![Shaak BB](https://github.com/evidenz/GI-TW-Teams/blob/master/Teams/bb_shaak.png?raw=true)
+
+# ToDo
+
+1. Member fragen, wer SLKR + Daka + Zombie gegen LV spielen kann. Dann kann man noch für diese Leute ein General Hux FO Team bauen das in die Def kann.
+2. Neues BH Team einarbeiten.
+3. Ausgleichen, wer wie viele Teams stellt. Momentan haben einige Leute einfach ein gutes Roster wodurch sie mehr als andere stellen können. Vielleicht können wir das ein wenig umgewichten (nicht so einfach bei 50 Squads pro Feld).
